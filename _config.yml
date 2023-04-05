@@ -18,9 +18,9 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: DobingTech  # the main title
+title: dobing.tech  # the main title
 
-tagline: Blogs and thoughts # it will display as the sub-title
+tagline: Just Matt's techy thoughts and tips # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Prompt, useful tech blog focusing on Microsoft Intune and other Info Sec topics
