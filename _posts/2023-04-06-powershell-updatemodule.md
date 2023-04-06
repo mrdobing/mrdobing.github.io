@@ -107,8 +107,3 @@ You can see below that the modules were successfully deployed to the client mach
 Thanks for reading!
 
 
-
-<div class="commentbox"></div>
-<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-<script>commentBox('5680867183689728-proj')</script>
-
