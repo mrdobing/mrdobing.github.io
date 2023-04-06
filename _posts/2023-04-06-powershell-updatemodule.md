@@ -104,6 +104,8 @@ You can see below that the modules were successfully deployed to the client mach
 
 ![Intune Result](/assets/images/intune3.png)
 
-Thanks for reading!
+Thanks for reading! Please feel free to comment with any questions and I'll do my best to get back to you.
 
-
+<div class="commentbox"></div>
+<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+<script>commentBox('5680867183689728-proj')</script>
