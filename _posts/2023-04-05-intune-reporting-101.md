@@ -4,6 +4,7 @@ title: Intune Reporting 101
 date: 2023-04-05 12:00
 categories: [device management, reporting]
 tags: [endpoint management, intune, microsoft]
+published: false
 ---
 
 ## How to get PowerShell transcript logs from client machines remotely in Azure File Blobs
