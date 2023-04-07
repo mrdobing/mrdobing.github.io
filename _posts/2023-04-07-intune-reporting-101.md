@@ -215,7 +215,7 @@ These will be passed into the functions:
 
     # BlobTranscript Variables
     $storageAccountName = "intunelogcollection" # Storage account name
-    $**storageAccountKey** = "**INSERT YOUR STORAGE KEY**" # Access key
+    $storageAccountKey = "**INSERT YOUR STORAGE KEY**" # Access key
     $containerName = "intunelogcollection" # Blob name
     $blobName = "$computerName-$userName/$scriptName-$date" # Format the log file name
 
