@@ -381,3 +381,7 @@ I’m honestly surprised Microsoft haven’t given us more tools and reporting p
 Please feel free to critique, suggest improvements or post any errors or issues you are encountering and I will do my best to help resolve.
 
 **Happy Intuning!**  🤓
+
+<div class="commentbox"></div>
+<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+<script>commentBox('5680867183689728-proj')</script>
